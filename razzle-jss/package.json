@@ -35,25 +35,9 @@
     "url": "https://github.com/TheFlyingCodeChimp/razzle-jss/issues"
   },
   "dependencies": {
-    "@sitecore-jss/sitecore-jss-react": "^11.0.2",
-    "axios": "^0.19.0",
-    "express": "^4.17.1",
-    "razzle": "^3.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1",
-    "react-router-dom": "^5.0.1"
   },
   "devDependencies": {
-    "@babel/register": "^7.4.4",
     "@sitecore-jss/sitecore-jss-cli": "^11.0.2",
-    "@sitecore-jss/sitecore-jss-dev-tools": "^11.0.2",
-    "@sitecore-jss/sitecore-jss-manifest": "^11.0.2",
-    "chalk": "^2.4.2",
-    "chokidar": "^3.0.2",
-    "http-proxy-middleware": "^0.19.1",
-    "inquirer": "^6.5.0",
-    "rimraf": "^2.6.3"
   },
   "scripts": {
     "jss": "jss",
