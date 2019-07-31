@@ -20,7 +20,7 @@
     "sitecoreDistPath": "/dist/JssReactWeb",
     "sitecoreConfigPath": "/App_Config/Include/zzz",
     "graphQLEndpointPath": "/api/jssreactweb",
-    "language": "en",
+    "language": "en"
   },
   "engines": {
     "node": ">=8.1",
